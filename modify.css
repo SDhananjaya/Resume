@@ -1,0 +1,52 @@
+.imageContainer{
+    background-color: rgb(188, 182, 182);
+    height: 70%;
+    width: 70%;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 8px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius:50px;
+    margin-left: 20px;
+    margin-top: -20px;
+    display: inline-block;
+}
+.one{
+  display: inline-block;
+  margin-left: 350px;
+  height: 100px;
+}
+#mi,#ni{
+  margin-top: -8px;
+}
+table{
+    width: 70%;
+    height: 200px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:rgb(91, 27, 239);
+}
+p{
+  margin-top: -15px;
+  margin-left: 10px;
+  font-size: 15px;
+}
+.map{
+    margin-top:-90px;
+   
+}
+h5{
+    margin-bottom:5px ;
+    text-decoration: underline;
+}
+.crow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
